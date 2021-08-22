@@ -1,8 +1,11 @@
 ---
 title: Hello World
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+  - General
+feature_image: 'https://picsum.photos/2560/600?image=872'
+published: true
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+**안녕하세요. 저는 현재 멋쟁이사자처럼이라는 IT교육업체에서 일하고 있는 강석균입니다.**##
+
+
