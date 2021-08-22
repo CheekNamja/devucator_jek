@@ -16,4 +16,3 @@ feature_image: "https://images.unsplash.com/photo-1582133925315-694371d92da2?ixi
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA5MjVfMTgw/MDAxNTY5NDEzOTU5OTYy.5YHq6Pu173BJ9eUvLY2Jblh-j0SaZaWzMFwLRwFgf5Eg.Oe3vOI7JdDcTJhrWe8XzEWndh5i4HR57LC47sGf8ZFEg.JPEG.wlsghd613/SE-45b8b805-4778-4f61-bd14-c58ba4fdec7f.jpg?type=w800" width="500px" height="450px" title="px(픽셀) 크기 설정"><br/>
 
 -----------------------------------------------------------------------
-이야~ 바뀌었다 글씨체~~~~~~~~~~
