@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: "Developer + Educator"
+feature_image: "https://images.unsplash.com/photo-1551034549-befb91b260e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
 feature_text: |
-  ## Hello world
+  # What is Next?
 ---
 
-There isn't much going on here yet, but watch this space
+There are better starters than me but I’m a strong finisher
