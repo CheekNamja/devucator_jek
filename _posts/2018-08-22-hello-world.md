@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 인사
 categories:
   - General
 feature_image: 'https://picsum.photos/2560/600?image=872'
